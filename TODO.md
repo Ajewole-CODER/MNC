@@ -1,0 +1,4 @@
+- [ ] Add hamburger menu button to nav in all HTML files
+- [ ] Update CSS to support mobile menu toggle
+- [ ] Add JavaScript for menu toggle functionality
+- [ ] Test mobile navigation on all pages
